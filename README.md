@@ -1,1 +1,13 @@
-# 2729400
+# Abot Me
+
+Hi there I am Thanks for checking out my page I am a college student with a nack for Programming and systems development
+
+# My goals.
+
+
+| Goal | Progress | Status | Archived | Public | Details |
+| ---- | -------- | ------ | -------- | ------ | ------- |
+| Making a legacy boot Video Game | Have a working legacy boot programme for x86 based systems and plan to upload software when I have a working design |  In-progress | &#x274c; | &#x274c; | The idea is to create a legacy boot program that fits in a 512 boot sector and runs in 16-bit real mod.  It is all written in x86 assembly |
+| Working Respository for CTFs | Currently In the progress of sorting ot layout and then I will begin adding to a repo |  In-progress | &#x274c; | ✔️ | This will be alist of all CTFs I have taken part in recently From ~2023 onwards |
+| A kernel that Resembles the Linux Kernel | I have currently been learning the process of dealing with uefi so that I can make the kernel boot smootly and securley on ost systems | &#x274c; | ✔️ |  The kernel is based on the linux 6.9.8 Version but will incorperate things from earlier kernel releases as well as things I think I would like to add. |  In-progress |
+| A Recreaction of Fail0verflows Ps4 syscon glitching bug | Adding syscon chip to the assembled daughter board and reimplimenting software for an atmel Atmega chip so that we can read and write to the syscon flash | 
