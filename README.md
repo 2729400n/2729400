@@ -1,4 +1,4 @@
-# Abot Me
+# About Me
 
 Hi there I am Thanks for checking out my page I am a college student with a nack for Programming and systems development
 
