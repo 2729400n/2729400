@@ -21,12 +21,11 @@ I am Currently using these programming Languages and framework
 
 
 <section class="widget-list" >
-<table>
+<table style="border: 1px solid;">
   <tr><td>
   <div class="image-caption">
 <img  src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917' alt="clang image from wikipedia" title="C-lang" width="64" height="64" >
 
-    </td>
 </div>
     <td>
   <div>
@@ -42,7 +41,7 @@ I am Currently using these programming Languages and framework
       </td>
   </tr>
   <tr>
-    <td><caption>The clang programming language</caption></td>
+    <td> <caption>The clang programming language</caption> </td>
     <td><caption>LLVM Framework for languages and IR </caption></td>
     <td><caption>Java programming lang and binary class file composition</caption></td>
   </tr>
