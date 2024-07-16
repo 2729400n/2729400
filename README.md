@@ -15,8 +15,18 @@ Hi there Thanks for checking out my page I am a college student with a nack for 
 
 I am Currently using these programming Languages and framework 
 
+
+
 <br>
+
+
+<section class="widget-list" >
+  <div class="image-caption">
 <img  src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917' alt="clang image from wikipedia" title="C-lang" width="64" height="64" >
 <caption>image from wikpedia</caption>
+</div>
+  <div>
 <img src="https://llvm.org/img/DragonMedium.png" alt="llvm image from wikipedia" title="llvm framework" width="64" height="64">
 <caption>LLVM Framework for languages and IR </caption>
+  </div>
+</section>
