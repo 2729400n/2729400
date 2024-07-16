@@ -31,7 +31,7 @@ I am Currently using these programming Languages and framework
   </div>
   <div>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="java logo from icon Finder" title="Java framework" width="64" height="64">
-<caption>LLVM Framework for languages and IR </caption>
+<caption>Java programming lang and binary class file composition  </caption>
   </div>
 
   
