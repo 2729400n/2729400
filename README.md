@@ -11,3 +11,8 @@ Hi there Thanks for checking out my page I am a college student with a nack for 
 | Working Respository for CTFs | Currently In the progress of sorting ot layout and then I will begin adding to a repo |  In-progress | &#x274c; | ✔️ | This will be alist of all CTFs I have taken part in recently From ~2023 onwards |
 | A kernel that Resembles the Linux Kernel | I have currently been learning the process of dealing with uefi so that I can make the kernel boot smootly and securley on ost systems | &#x274c; | ✔️ |  The kernel is based on the linux 6.9.8 Version but will incorperate things from earlier kernel releases as well as things I think I would like to add. |  In-progress |
 | A Recreaction of Fail0verflows Ps4 syscon glitching bug | Adding syscon chip to the assembled daughter board and reimplimenting software for an atmel Atmega chip so that we can read and write to the syscon flash | 
+
+
+I am Currently using these programming Languages and framework 
+
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917'/>
