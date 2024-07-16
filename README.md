@@ -15,4 +15,4 @@ Hi there Thanks for checking out my page I am a college student with a nack for 
 
 I am Currently using these programming Languages and framework 
 
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917'/>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917'>
