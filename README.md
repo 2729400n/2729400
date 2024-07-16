@@ -21,11 +21,14 @@ I am Currently using these programming Languages and framework
 
 
 <section class="widget-list" >
+  
 <table style="border: 1px solid;">
-  <tr><td>
+  
+  <tr>
+    <td>
   <div class="image-caption">
 <img  src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917' alt="clang image from wikipedia" title="C-lang" width="64" height="64" >
-
+  </td>
 </div>
     <td>
   <div>
