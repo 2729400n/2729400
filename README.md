@@ -25,21 +25,26 @@ I am Currently using these programming Languages and framework
   <tr><td>
   <div class="image-caption">
 <img  src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917' alt="clang image from wikipedia" title="C-lang" width="64" height="64" >
-<caption>image from wikpedia</caption>
+
     </td>
 </div>
     <td>
   <div>
 <img src="https://llvm.org/img/DragonMedium.png" alt="llvm image from wikipedia" title="llvm framework" width="64" height="64">
-<caption>LLVM Framework for languages and IR </caption>
+
   </div>
       </td>
     <td>
   <div>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="java logo from icon Finder" title="Java framework" width="64" height="64">
-<caption>Java programming lang and binary class file composition  </caption>
+
   </div>  
       </td>
+  </tr>
+  <tr>
+    <td><caption>The clang programming language</caption></td>
+    <td><caption>LLVM Framework for languages and IR </caption></td>
+    <td><caption>Java programming lang and binary class file composition</caption></td>
   </tr>
 </table> 
 </section>
